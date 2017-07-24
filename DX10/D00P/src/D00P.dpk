@@ -1,0 +1,52 @@
+package D00P;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  dbrtl,
+  vcldb,
+  ZComponent,
+  ZDbc,
+  ZPlain,
+  ZCore,
+  ZParseSql;
+
+contains
+  D00HF00A in '..\..\D00H\src\D00HF00A.pas' {h_frmBase},
+  D00HF01A in '..\..\D00H\src\D00HF01A.pas' {h_frmCadBase},
+  D00HF01B in '..\..\D00H\src\D00HF01B.pas' {h_frmPrincipalBase},
+  D00HD00A in '..\..\D00H\src\D00HD00A.pas' {h_dmBase: TDataModule},
+  D00SU01A in '..\..\D00S\src\D00SU01A.pas',
+  D00CU01A in '..\..\D00C\src\D00CU01A.pas',
+  D00CU01B in '..\..\D00C\src\D00CU01B.pas',
+  D00SU01B in '..\..\D00S\src\D00SU01B.pas',
+  D00SF01A in '..\..\D00S\src\D00SF01A.pas' {h_frmMsgBase};
+
+end.
