@@ -1,17 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2017/06/29 00:57:30.000.342,=rtl.dcp</Transaction>
-    <Transaction>2017/06/29 00:57:38.000.193,C:\Users\Paulo Farias\Documents\Embarcadero\Studio\Projects\D00X.dproj=C:\Users\Paulo Farias\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
-    <Transaction>2017/06/29 00:58:18.000.294,E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\D00X.dproj=C:\Users\Paulo Farias\Documents\Embarcadero\Studio\Projects\D00X.dproj</Transaction>
-    <Transaction>2017/07/01 15:20:49.000.886,=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\Unit2.pas</Transaction>
-    <Transaction>2017/07/01 17:36:13.000.952,=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\D00XF01A.pas</Transaction>
-    <Transaction>2017/07/02 11:10:52.000.124,=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\Unit1.pas</Transaction>
-    <Transaction>2017/07/02 11:11:43.000.778,=E:\PROJETOS\DELPHI\DX10\DX10\D00H\src\D00HF01A.pas</Transaction>
-    <Transaction>2017/07/02 11:11:43.000.764,=E:\PROJETOS\DELPHI\DX10\DX10\D00H\src\D00HF00A.pas</Transaction>
-    <Transaction>2017/07/02 11:14:28.000.478,E:\PROJETOS\DELPHI\DX10\DX10\D00H\src\D00HF01A.pas=</Transaction>
+    <Transaction>2017/06/29 00:57:38.000.193,C:\Users\Paulo Farias\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Paulo Farias\Documents\Embarcadero\Studio\Projects\D00X.dproj</Transaction>
+    <Transaction>2017/06/29 00:58:18.000.294,C:\Users\Paulo Farias\Documents\Embarcadero\Studio\Projects\D00X.dproj=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\D00X.dproj</Transaction>
     <Transaction>2017/07/03 23:44:50.000.706,=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\D00XD00A.pas</Transaction>
-    <Transaction>2017/07/05 21:40:07.000.081,=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\D00XF01A.pas</Transaction>
     <Transaction>2017/07/10 23:18:10.000.954,=E:\PROJETOS\DELPHI\DX10\DX10\D00X\src\D00XU00A.pas</Transaction>
   </Transactions>
 </BorlandProject>
