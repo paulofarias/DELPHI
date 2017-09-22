@@ -47,6 +47,7 @@ contains
   D00CU01A in '..\..\D00C\src\D00CU01A.pas',
   D00CU01B in '..\..\D00C\src\D00CU01B.pas',
   D00SU01B in '..\..\D00S\src\D00SU01B.pas',
-  D00SF01A in '..\..\D00S\src\D00SF01A.pas' {h_frmMsgBase};
+  D00SF01A in '..\..\D00S\src\D00SF01A.pas' {h_frmMsgBase},
+  D00CU01C in '..\..\D00C\src\D00CU01C.pas';
 
 end.
