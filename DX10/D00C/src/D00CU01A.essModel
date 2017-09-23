@@ -1,0 +1,76 @@
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
+[Box:  - ::D00CU01A]
+X=665
+Y=125
+
+[Box:  - ::D00CU01B]
+X=225
+Y=210
+
+[Box:  - ::D00HD00A]
+X=1075
+Y=125
+
+[Box:  - ::D00HF00A]
+X=840
+Y=210
+
+[Box:  - ::D00HF01A]
+X=460
+Y=125
+
+[Box:  - ::D00HF01B]
+X=870
+Y=125
+
+[Box:  - ::D00SU01A]
+X=1280
+Y=125
+
+[Box:  - ::D00XD00A]
+X=1177
+Y=40
+
+[Box:  - ::D00XU00A]
+X=20
+Y=210
+
+[Box:  - ::D01SF00A]
+X=870
+Y=40
+
+[Box:  - ::D01SF01B]
+X=635
+Y=40
+
+[Box:  - ::D01SF01D]
+X=430
+Y=40
+
+[Box:  - ::D01SU00A]
+X=430
+Y=210
+
+[Box:  - ::D02SF01A]
+X=225
+Y=40
+
+[Box:  - ::D03SF00A]
+X=20
+Y=40
+
+[Box:  - ::Unit1]
+X=635
+Y=210
+
+[Diagram: ]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
