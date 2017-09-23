@@ -18,12 +18,11 @@ inherited dmDados: TdmDados
   object connConexao: TZConnection
     ControlsCodePage = cCP_UTF16
     Catalog = ''
-    Connected = True
     HostName = 'localhost'
     Port = 0
-    Database = 'siscom'
-    User = 'sysdba'
-    Password = 'masterkey'
+    Database = 'teste'
+    User = 'root'
+    Password = ''
     Protocol = 'mysql-5'
     Left = 24
     Top = 16
