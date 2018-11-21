@@ -12,13 +12,14 @@ type
     h_dsGeral: TDataSource;
     h_scbxGeral: TScrollBox;
     h_tbBarra: TToolBar;
-    h_dbnNavegador: TDBNavigator;
     h_pnlBotoes: TPanel;
     h_gbxBotoes: TGroupBox;
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
   private
     { Private declarations }
   public
     { Public declarations }
+    constructor Create(AOwner: TComponent); override;
   end;
 
 var
@@ -27,5 +28,21 @@ var
 implementation
 
 {$R *.dfm}
+
+uses
+  D00SU01A;
+
+procedure Th_frmCadBase.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  inherited;
+  Action := caFree;
+  Self := nil;
+end;
+
+constructor Th_frmCadBase.Create(AOwner: TComponent);
+begin
+  inherited Create(AOwner);
+  //_gParamApp.cfNavegador.Parent := Self.h_tbBarra;
+end;
 
 end.

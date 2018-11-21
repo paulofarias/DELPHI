@@ -3,7 +3,9 @@ inherited h_frmCadBase: Th_frmCadBase
   ClientHeight = 205
   ClientWidth = 522
   FormStyle = fsMDIChild
+  Position = poDefault
   Visible = True
+  OnClose = FormClose
   ExplicitWidth = 552
   ExplicitHeight = 258
   PixelsPerInch = 96
@@ -23,14 +25,6 @@ inherited h_frmCadBase: Th_frmCadBase
       Height = 29
       Caption = 'h_tbBarra'
       TabOrder = 0
-      object h_dbnNavegador: TDBNavigator
-        Left = 0
-        Top = 0
-        Width = 240
-        Height = 22
-        DataSource = h_dsGeral
-        TabOrder = 0
-      end
     end
     object h_pnlBotoes: TPanel
       Left = 0

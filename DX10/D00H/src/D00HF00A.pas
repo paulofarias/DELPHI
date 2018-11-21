@@ -12,12 +12,18 @@ type
     { Private declarations }
   public
     { Public declarations }
+    constructor Create(AOwner: TComponent); override;
   end;
 
 var
   h_frmBase: Th_frmBase;
 
 implementation
+
+constructor Th_frmBase.Create(AOwner: TComponent);
+begin
+  inherited Create(AOwner);
+end;
 
 {$R *.dfm}
 
