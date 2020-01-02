@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/22 21:08:48.000.241,=C:\Users\W7HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/22 21:28:19.000.850,C:\Users\W7HP\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\PROJETOS\DELPHI\DX10\PONTO\source\PRJ\PONTO.dproj</Transaction>
+    <Transaction>2017/01/22 22:55:50.000.809,=D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\D99XH00A.pas</Transaction>
+    <Transaction>2017/01/22 22:55:57.000.299,=D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\D99XF00A.pas</Transaction>
+    <Transaction>2017/01/24 22:55:53.000.759,D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\DH01A.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\D99XH00A.pas</Transaction>
+    <Transaction>2017/01/24 22:55:53.000.759,D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\DH01A.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\D99XH00A.dfm</Transaction>
+    <Transaction>2017/01/24 22:56:17.000.200,D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01A.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\D99XF00A.pas</Transaction>
+    <Transaction>2017/01/24 22:56:17.000.200,D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01A.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\D99XF00A.dfm</Transaction>
+    <Transaction>2017/01/26 23:26:18.000.759,=D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\DH01B.pas</Transaction>
+    <Transaction>2017/01/26 23:26:33.000.553,=D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01B.pas</Transaction>
+    <Transaction>2017/01/26 23:56:12.000.432,=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/01/26 23:56:38.000.086,D:\PROJETOS\DELPHI\DX10\PONTO\source\UNT\DU01A.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 22:43:11.000.099,=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 22:43:28.000.946,D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\DH01C.dfm</Transaction>
+    <Transaction>2017/01/28 22:43:28.000.946,D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\HRN\DH01C.pas</Transaction>
+    <Transaction>2017/01/28 23:55:36.000.685,=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 23:56:07.000.522,D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01C.dfm</Transaction>
+    <Transaction>2017/01/28 23:56:07.000.522,D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01C.pas</Transaction>
+    <Transaction>2017/02/28 12:49:57.000.471,=D:\PROJETOS\DELPHI\DX10\PONTO\source\UNT\DU01B.pas</Transaction>
+    <Transaction>2017/02/28 22:03:01.802,=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/02/28 22:03:56.657,D:\PROJETOS\DELPHI\DX10\PONTO\source\UNT\D01C.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/02/28 22:04:27.256,D:\PROJETOS\DELPHI\DX10\PONTO\source\UNT\DU01C.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\UNT\D01C.pas</Transaction>
+    <Transaction>2017/02/28 23:35:49.697,D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01B.pas=</Transaction>
+    <Transaction>2017/02/28 23:35:50.015,D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01C.pas=</Transaction>
+    <Transaction>2017/02/28 23:36:34.822,=D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DF01B.pas</Transaction>
+    <Transaction>2017/02/28 23:36:34.955,=D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DF01C.pas</Transaction>
+    <Transaction>2017/02/28 23:37:10.944,=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit1.pas</Transaction>
+    <Transaction>2017/02/28 23:37:49.028,D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DX01B.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DF01B.pas</Transaction>
+    <Transaction>2017/02/28 23:37:49.028,D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DX01B.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DF01B.dfm</Transaction>
+    <Transaction>2017/02/28 23:37:57.452,D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DX01C.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DF01C.dfm</Transaction>
+    <Transaction>2017/02/28 23:37:57.452,D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DX01C.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\EXT\DF01C.pas</Transaction>
+    <Transaction>2017/02/28 23:38:39.566,=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit2.pas</Transaction>
+    <Transaction>2017/02/28 23:38:50.173,D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01B.pas=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit2.pas</Transaction>
+    <Transaction>2017/02/28 23:38:50.173,D:\PROJETOS\DELPHI\DX10\PONTO\source\FRM\DF01B.dfm=D:\PROJETOS\DELPHI\DX10\PONTO\source\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
